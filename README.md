@@ -121,6 +121,14 @@ me.say_hi()
 </div>
 
 <!-- GitHub Stats with Animations -->
+##  GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShetPrajwal1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=2C5364&text_color=FFFFFF&border_color=203A43" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ShetPrajwal1&theme=dark&hide_border=true&background=0D1117&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&border=203A43" alt="Streak Stats" />
+</div>
+
+
 
 
 <!-- Featured Projects Section -->
@@ -194,6 +202,14 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+##  Contribution Graph
+
+<div align="center">
+  
+  <!-- This snake animation requires GitHub Actions setup. For now, using an alternative visualization -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShetPrajwal1&theme=github-compact&hide_border=true&bg_color=0D1117&color=2C5364&line=2C5364&point=A52A2A&area=true&area_color=203A43" alt="Activity Graph" />
+  
+</div>
 
 
 <!-- Animated Cartoon Developer -->
