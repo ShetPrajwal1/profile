@@ -133,10 +133,6 @@ me.say_hi()
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShetPrajwal1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShetPrajwal1&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=2C5364&text_color=FFFFFF&icon_color=2C5364" alt="Trophies" />
-</div>
 
 <!-- Featured Projects Section -->
 ##  Featured Projects
