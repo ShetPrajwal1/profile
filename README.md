@@ -1,4 +1,4 @@
-<!-- Animated Wave Header with AI/ML Theme -->
+[<!-- Animated Wave Header with AI/ML Theme -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x0F2027,0x203A43,0x2C5364&height=180&section=header&text=Prajwal%20Shet&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20MSc%20Artificial%20Intelligence%20@%20THI&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
 </div>
@@ -232,3 +232,4 @@ me.say_hi()
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x0F2027,0x203A43,0x2C5364&height=100&section=footer" alt="Footer" />
+](https://github.com/ShetPrajwal1)
