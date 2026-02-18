@@ -128,10 +128,7 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ShetPrajwal1&theme=dark&hide_border=true&background=0D1117&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&border=203A43" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShetPrajwal1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=FFFFFF&border_color=203A43" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShetPrajwal1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</div>
+
 
 
 <!-- Featured Projects Section -->
@@ -214,10 +211,6 @@ me.say_hi()
   
 </div>
 
-<!-- Alternative: Contribution Calendar -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/2C5364/ShetPrajwal1" alt="GitHub Contributions" />
-</div>
 
 <!-- Animated Cartoon Developer -->
 ## 💻 Coding Mode
@@ -228,4 +221,3 @@ me.say_hi()
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x0F2027,0x203A43,0x2C5364&height=100&section=footer" alt="Footer" />
-](https://github.com/ShetPrajwal1)
