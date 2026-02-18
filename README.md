@@ -1,11 +1,11 @@
-[<!-- Animated Wave Header with AI/ML Theme -->
+<!-- Animated Wave Header with Alternative Blue/Cyan Theme -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x0F2027,0x203A43,0x2C5364&height=180&section=header&text=Prajwal%20Shet&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20MSc%20Artificial%20Intelligence%20@%20THI&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x1A2980,0x26D0CE&height=180&section=header&text=Prajwal%20Shet&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20MSc%20Artificial%20Intelligence%20@%20THI&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
 </div>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=AI%20%2F%20ML%20Engineer;MSc%20Artificial%20Intelligence%20Student;Building%20LLM%20%26%20MLOps%20Systems;Python%20%7C%20RAG%20%7C%20MLflow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A2980&center=true&vCenter=true&width=700&lines=AI%20%2F%20ML%20Engineer;MSc%20Artificial%20Intelligence%20Student;Building%20LLM%20%26%20MLOps%20Systems;Python%20%7C%20RAG%20%7C%20MLflow" alt="Typing SVG" />
 </p>
 
 <!-- Animated Social Badges -->
@@ -15,10 +15,10 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShetPrajwal1)
   
   <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/📍_Ingolstadt,_Germany-2C5364?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Ingolstadt,_Germany-1A2980?style=for-the-badge" alt="Location" />
   
   <!-- Animated Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ShetPrajwal1&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShetPrajwal1&style=for-the-badge&color=26D0CE" alt="Profile Views" />
 </div>
 
 <!-- About Me Section -->
@@ -29,7 +29,7 @@
 ##  Currently Studying At
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MSc%20Artificial%20Intelligence-Technische%20Hochschule%20Ingolstadt-2C5364?style=for-the-badge&labelColor=203A43&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSc%20Artificial%20Intelligence-Technische%20Hochschule%20Ingolstadt-1A2980?style=for-the-badge&labelColor=243B55&logo=google-scholar&logoColor=white" />
   <br/>
   <em>"Mastering Advanced AI, Machine Learning & Deep Learning"</em>
 </div>
@@ -121,14 +121,6 @@ me.say_hi()
 </div>
 
 <!-- GitHub Stats with Animations -->
-##  GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShetPrajwal1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=2C5364&text_color=FFFFFF&border_color=203A43" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ShetPrajwal1&theme=dark&hide_border=true&background=0D1117&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&border=203A43" alt="Streak Stats" />
-</div>
-
-
 
 
 <!-- Featured Projects Section -->
@@ -138,14 +130,14 @@ me.say_hi()
   
 ###  MLOps Pipeline for End-to-End ML
 <img src="https://img.shields.io/badge/Python-MLflow-0194E2?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Reproducibility-High-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Reproducibility-High-1A2980?style=flat-square" />
 <img src="https://img.shields.io/badge/Automation-Full-orange?style=flat-square" />
 
 > Modular ML pipeline covering ingestion, validation, training, evaluation, and experiment tracking with MLflow integration.
 
 ###  LLM-Based Travel Assistant Chatbot
 <img src="https://img.shields.io/badge/GenAI-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Enabled-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Enabled-26D0CE?style=flat-square" />
 <img src="https://img.shields.io/badge/Agentic-MCP-purple?style=flat-square" />
 
 > LLM-powered chatbot for itinerary suggestions using RAG and Model Context Protocol (MCP) on Google Cloud Platform.
@@ -156,9 +148,9 @@ me.say_hi()
 ##  Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Specializing-Generative%20AI-9C27B0?style=for-the-badge&labelColor=203A43&color=2C5364" />
-  <img src="https://img.shields.io/badge/Building-RAG%20Systems-00C7B7?style=for-the-badge&labelColor=203A43&color=2C5364" />
-  <img src="https://img.shields.io/badge/Mastering-MLOps-0194E2?style=for-the-badge&labelColor=203A43&color=2C5364" />
+  <img src="https://img.shields.io/badge/Specializing-Generative%20AI-9C27B0?style=for-the-badge&labelColor=243B55&color=1A2980" />
+  <img src="https://img.shields.io/badge/Building-RAG%20Systems-26D0CE?style=for-the-badge&labelColor=243B55&color=1A2980" />
+  <img src="https://img.shields.io/badge/Mastering-MLOps-0194E2?style=for-the-badge&labelColor=243B55&color=1A2980" />
 </div>
 
 <!-- Certifications -->
@@ -178,17 +170,17 @@ me.say_hi()
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Structured-2C5364?style=flat-square&labelColor=203A43" />
+        <img src="https://img.shields.io/badge/-Structured-1A2980?style=flat-square&labelColor=243B55" />
         <br><b>Clean Pipelines</b>
         <br><i>Process optimization & reproducibility</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Innovative-2C5364?style=flat-square&labelColor=203A43" />
+        <img src="https://img.shields.io/badge/-Innovative-1A2980?style=flat-square&labelColor=243B55" />
         <br><b>Generative AI</b>
         <br><i>Pushing boundaries with LLMs & RAG</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Reliable-2C5364?style=flat-square&labelColor=203A43" />
+        <img src="https://img.shields.io/badge/-Reliable-1A2980?style=flat-square&labelColor=243B55" />
         <br><b>MLOps</b>
         <br><i>Robust deployment & monitoring</i>
       </td>
@@ -202,14 +194,6 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-##  Contribution Graph
-
-<div align="center">
-  
-  <!-- This snake animation requires GitHub Actions setup. For now, using an alternative visualization -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShetPrajwal1&theme=github-compact&hide_border=true&bg_color=0D1117&color=2C5364&line=2C5364&point=A52A2A&area=true&area_color=203A43" alt="Activity Graph" />
-  
-</div>
 
 
 <!-- Animated Cartoon Developer -->
@@ -220,4 +204,4 @@ me.say_hi()
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x0F2027,0x203A43,0x2C5364&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x1A2980,0x26D0CE&height=100&section=footer" alt="Footer" />
